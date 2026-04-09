@@ -1,0 +1,30 @@
+problemas identificados:
+
+falta de manutenção preventiva
+
+não existe protocolo para substituição em caso de falha de equipamento crítico
+-a empresa não possui estoque de peças de reposição
+
+a empresa não possui autenticação multifatores para acesso a sistemas 
+
+a empresa não realiza testes regulares de vulnerabilidade
+
+a empresa não possui planos de continuidade
+-a empresa não possui um plano formal de continuidade de negócio 
+-a empresa não possui um plano formal de recuperação de desastres
+
+logs só são revisados quando ocorre um incidente
+
+máquinas antigas e não atendendo ás demandas operacionais
+
+problemas de rede
+-rede de internet é instável
+-rede de internet mal estruturada
+-falta de plano de contingência para falhas de conectividade na rede
+
+falta de mão de obra especializada de TI, resultando em necessidade de recorrer a suporte terceirizado
+
+funcionários não são treinados corretamente em relação a ti
+-os funcionários não recebem treinamentos periódicos sobre boas práticas de segurança
+-falta de treinamento aos funcionários sobre a utilização do sistema ERP
+
