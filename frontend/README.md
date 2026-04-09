@@ -1,16 +1,38 @@
-# React + Vite
+# 📄 Word Page Estimator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicação web para estimar número de páginas com base na quantidade de palavras e formatos editoriais reais.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Node.js
+- Express
+- Multer
+- React
+- Vite
+- Axios
 
-## React Compiler
+## 📦 Funcionalidades
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Upload de arquivos `.txt`
+- Contagem automática de palavras
+- Estimativa de páginas para múltiplos formatos editoriais
 
-## Expanding the ESLint configuration
+## ▶️ Como rodar localmente
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Backend
+
+cd backend  
+npm install  
+npm run dev  
+
+### Frontend
+
+cd frontend  
+npm install  
+npm run dev  
+
+## 📌 Próximas melhorias
+
+- Suporte a `.docx`
+- Interface aprimorada
+- Exportação PDF
